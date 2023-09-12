@@ -1,6 +1,6 @@
 package repository;
 
-import entitites.Airplane;
+import entities.Airplane;
 import jakarta.data.repository.Page;
 import jakarta.data.repository.Pageable;
 import jakarta.data.repository.PageableRepository;
